@@ -14,13 +14,12 @@ minimal: true   # dark/minimal header look (more professional)
 
 # Menu
 navigation:
-  - { file: "index.html", title: "Home", icon: home }
-  - { file: "README.md", title: "About", icon: user }
+  - { file: "about.md", title: "About", icon: user }
+  - { file: "research.md", title: "Research", icon: book }
+  - { file: "teaching.md", title: "Teaching", icon: chalkboard-teacher }
+  - { file: "cv.md", title: "CV", icon: file-pdf }
 
-external:
-  - { title: Email, icon: envelope, url: "mailto:md.mamun@ufl.edu" }
-  - { title: GitHub, icon: github, url: "https://github.com/mamun3210" }
-  - { title: X, icon: x, url: "https://x.com/MdMMamun5" }
+external: []
 
 comments:
   # disqus_shortname: ""
