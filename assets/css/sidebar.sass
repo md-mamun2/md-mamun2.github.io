@@ -5,70 +5,104 @@
 
 html
   padding: 0
+  background: #f7f7f8
 
 body
   font-size: 1.02em
-  margin: 0 0 0 21em
+  margin: 0 0 0 19.25em
   max-width: inherit
   overscroll-behavior: none
+  background: #ffffff
 
 body > header, body > footer
   display: none
 
 body > article
-  margin: 0 4em 0 5.5em
-  padding: 1.6em 0
-  max-width: 58em
+  margin: 0 4.25em 0 4.75em
+  padding: 1.9em 0
+  max-width: 60em
 
 article header h1
-  font-size: 1.65em
-  margin: 0 0 .6em 0
+  font-size: 1.75em
+  margin: 0 0 .75em 0
 
 article h2
-  margin-top: 1.4em
-  margin-bottom: .5em
+  margin-top: 1.5em
+  margin-bottom: .55em
 
+/* Sidebar: muted UF look */
 aside
   display: block!important
   position: fixed
   overflow: auto
-  background: #0021A5
-  color: #fff
-  padding: 1.6em
-  width: 13em
+  background: #001b66
+  color: #ffffff
+  padding: 1.4em
+  width: 14.25em
   top: 0
   bottom: 0
   left: 0
+  border-right: 1px solid rgba(255,255,255,.12)
 
+/* Menu */
 nav
-  margin: 0 -1.6em
+  margin: .25em -1.4em 0 -1.4em
 
 nav a
-  display: block
+  display: flex
+  align-items: center
+  gap: .9em
   margin: 0
-  padding: .45em 1.6em
-  color: #ffffff
+  padding: .62em 1.4em
+  color: rgba(255,255,255,.92)
   text-decoration: none
+  border-left: 3px solid transparent
 
-nav a:hover, nav a.selected
-  background: #FA4616
+nav a:hover
+  background: rgba(255,255,255,.06)
   color: #ffffff
-  text-decoration: none
+
+nav a.selected
+  background: rgba(250,70,22,.14)
+  border-left: 3px solid #FA4616
+  color: #ffffff
 
 .icon
-  margin-right: 1.0em
-  color: inherit!important
+  margin-right: 0
+  color: rgba(255,255,255,.92)!important
 
 .description
-  margin: 1.25em 0
+  margin: 1.25em 0 0 0
+  opacity: .92
 
+/* Make the gap between sidebar and content cleaner */
+body:before
+  content: ""
+  position: fixed
+  left: 19.25em
+  top: 0
+  bottom: 0
+  width: 1px
+  background: rgba(0,0,0,.06)
+
+/* Links in content: UF blue */
+article a
+  color: #0021A5
+article a:hover
+  color: #FA4616
+
+/* Mobile */
 @media (max-width: 900px)
   aside
     position: relative
     width: auto
+    border-right: 0
 
   body
     margin: 0
+
+  body:before
+    display: none
 
   body > article
     margin: 0 1.25em
