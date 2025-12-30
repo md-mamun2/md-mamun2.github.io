@@ -14,12 +14,13 @@ minimal: true   # dark/minimal header look (more professional)
 
 # Menu
 navigation:
-  - { file: "about.md", title: "About", icon: user }
-  - { file: "research.md", title: "Research", icon: book }
-  - { file: "teaching.md", title: "Teaching", icon: chalkboard-teacher }
-  - { file: "cv.md", title: "CV", icon: file-pdf }
+  - { title: "About", url: "/about/", icon: user }
+  - { title: "Research", url: "/research/", icon: book }
+  - { title: "Teaching", url: "/teaching/", icon: chalkboard-teacher }
+  - { title: "CV", url: "/cv/", icon: file-pdf }
 
 external: []
+
 
 comments:
   # disqus_shortname: ""
