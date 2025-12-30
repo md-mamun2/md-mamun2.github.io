@@ -9,7 +9,7 @@ date_format: "%B %d, %Y"
 # Layout
 show_excerpts: false
 show_frame: true
-show_sidebar: false
+show_sidebar: true
 minimal: true   # dark/minimal header look (more professional)
 
 # Menu
