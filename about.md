@@ -1,7 +1,9 @@
 ---
-layout: default
 title: About
-permalink: /about/
+layout: page
+permalink: /
+---
+
 ---
 
 ## Md Maniruzzaman Mamun  
