@@ -19,7 +19,7 @@ minimal: true
 
 # Menu
 navigation:
-  - { title: "About", url: "/about/", icon: user }
+  - { title: "About", url: "/", icon: user }
   - { title: "Research", url: "/research/", icon: book }
   - { title: "Teaching", url: "/teaching/", icon: chalkboard-teacher }
   - { title: "CV", url: "/cv/", icon: file-pdf }
