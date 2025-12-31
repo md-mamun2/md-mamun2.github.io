@@ -4,6 +4,14 @@ layout: page
 permalink: /
 ---
 
+<p align="center">
+  <img src="/assets/img/profile.jpg"
+       alt="Md Maniruzzaman Mamun"
+       width="200"
+       style="border-radius:50%;">
+</p>
+
+
 ## Md Maniruzzaman Mamun  
 **University of Florida**
 
