@@ -1,10 +1,15 @@
 title: "Md Maniruzzaman Mamun"
 author: "Md Maniruzzaman Mamun"
 description: "University of Florida"
+
+url: "https://md-mamun.com"
+baseurl: ""
+
 lang: "en"
 permalink: /:title/
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
+
 
 # Layout
 show_excerpts: false
