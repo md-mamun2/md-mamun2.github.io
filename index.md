@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <p align="center">
-  <img src="/assets/img/Mamun_photo.jpg"
+  <img src="/assets/Mamun_photo.jpg"
        alt="Md Maniruzzaman Mamun"
        width="220"
        style="border-radius:50%;">
