@@ -5,11 +5,12 @@ permalink: /
 ---
 
 <p align="center">
-  <img src="/assets/img/profile.jpg"
+  <img src="/assets/img/Mamun_photo.jpg"
        alt="Md Maniruzzaman Mamun"
-       width="200"
+       width="220"
        style="border-radius:50%;">
 </p>
+
 
 
 ## Md Maniruzzaman Mamun  
