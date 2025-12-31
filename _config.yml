@@ -31,5 +31,10 @@ comments:
   # disqus_shortname: ""
   # isso_domain: ""
 
-plugins:
-  - jekyll-feed
+plugins []
+
+collections:
+  posts:
+    output: false
+
+
