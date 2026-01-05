@@ -7,7 +7,7 @@ permalink: /teaching/
 ## Teaching Experience
 
 **Graduate Teaching Assistant**  
-University of Florida, Department of Political Science — Gainesville, Florida *(August 2023 – May 2025)*  
+University of Florida, Department of Political Science — Gainesville, Florida *(August 2023 – December 2025)*  
 - Led discussion sessions (two sections)  
 - Graded assignments and examinations  
 - Prepared examination questions  
