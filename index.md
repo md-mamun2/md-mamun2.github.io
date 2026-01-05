@@ -13,21 +13,12 @@ permalink: /
 
 
 
-## Md Maniruzzaman Mamun  
-**University of Florida**
+## Md[^1] Maniruzzaman Mamun
 
-I am a PhD student in Political Science at the University of Florida.
+[^1]: “Md” is an abbreviation of **Mohammad**.
 
-## Research Interests
-- Civil and Ethnic Conflict
-- Regime Change
-- Revolutions
-- Riots
+I am a third-year PhD student in Political Science at the University of Florida, specializing in comparative politics and political methodology. My research examines the causes and dynamics of revolutions—why revolutionary episodes emerge, recur, and diffuse across political systems—using statistical and computational methods. Methodologically, I primarily work with large-N data, but I make an exception for my native country, Bangladesh, where I draw on individual- or subnational-level data to provide greater empirical depth.
 
-## Education
-- Ph.D. in Political Science — University of Florida, Gainesville, Florida
-- M.A. in Political Science — Oklahoma State University, Stillwater, Oklahoma
-- B.A. in Political Science — University of Dhaka, Dhaka, Bangladesh
 
 ## Contact
 - Email: [md.mamun@ufl.edu](mailto:md.mamun@ufl.edu)  
