@@ -4,6 +4,11 @@ title: CV
 permalink: /cv/
 ---
 
+<p align="center">
+</p>
+
+
+
 ## EDUCATION
 
 **PhD, Political Science**  
