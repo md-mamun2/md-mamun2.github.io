@@ -22,4 +22,4 @@ University of Dhaka — Dhaka, Bangladesh *(April 2015)*
 
 ## Curriculum Vitae
 
-[Download CV (PDF)](/assets/CV_MdMMamun.pdf)
+[Download CV (PDF)](/assets/CV_.pdf)
